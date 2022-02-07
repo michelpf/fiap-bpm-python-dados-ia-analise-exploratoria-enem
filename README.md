@@ -4,8 +4,7 @@ Informações sobre o curso acesse [aqui](https://www.fiap.com.br/mba/mba-em-ges
 
 ## Análise Exploratória do ENEM 2019
 
-![Image of Car](https://github.com/michelpf/fiap-bpm-python-dados-ia-analise-exploratoria-enem
-/blob/master/imagens/college-students.jpg)
+![](https://github.com/michelpf/fiap-bpm-python-dados-ia-analise-exploratoria-enem/blob/master/imagens/college-students.jpg)
 
 Este projeto final tem como objetivo explorar os conhecimentos adquiridos nas aulas práticas. Por meio uma trilha guiada para construir um classificador que permitirá predizer o valor de um automóvel baseado em algumas características que cada grupo deverá escolher.
 
