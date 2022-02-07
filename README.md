@@ -54,4 +54,4 @@ Nota Final = n1 + 2 * n2 + 4 * n3 + 3 * n4
 
 ### Dúvidas
 
-Crie uma [Issue](https://github.com/michelpf/fiap-bpm-python-dados-ia-analise-exploratoria-enem/new) com as perguntas para que as dúvidas sejam compartilhados com todos os alunos. Questionamentos particulares devem ser encaminhados pelo e-mail do professor.
+Crie uma [Issue](https://github.com/michelpf/fiap-bpm-python-dados-ia-analise-exploratoria-enem/issues/new/choose) com as perguntas para que as dúvidas sejam compartilhados com todos os alunos. Questionamentos particulares devem ser encaminhados pelo e-mail do professor.
